@@ -1,5 +1,6 @@
 # SolarOS
 SolarOS is open source operation system. SolarOS is working on python.
+(SolarOS are switching to Russian language)
 
 # Is SolarOS secure?
 Yes. SolarOS is secure.
